@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "create package.json",
   "main": "\u001b[D\u001b[D\u001b[D\u001bapp",
-  "scripts": {
-    "start:dev": "nodemon ./bin/www",
+  
+    "scripts": {
+   "lint": "eslint postit",
+   "start:dev": "nodemon ./bin/www",
+   "babel": "babel --presets es2015 js/main.js -o build/main.bundle.js",
+   "build": "babel src -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
