@@ -1,0 +1,15 @@
+
+ body{
+   	 background-size: cover;
+   	 color: white
+   	 background-position: center;
+   	 background background-attachment: fixed;
+   }
+ form{
+    background-color: pink;
+    padding: 40px
+    margin-top: 200px
+    padding-bottom: 60px;
+    color: white;
+  }
+ 
