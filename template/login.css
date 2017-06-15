@@ -1,0 +1,118 @@
+body
+{
+    background-color:#333;
+    height: auto;
+}
+.Myhead
+{
+    
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    background-color: gold;
+    margin-left: 0px;
+    right: 0px;
+    top: 0px;
+}
+.User
+{
+    float: right;
+    height: 30px;
+    border-radius: 2px;
+    margin-right: 170px;
+    border: none;
+    width: 200px;
+    margin-top: 16px;
+    text-align: center;
+    color: darkgray;
+    font-style: oblique;
+    
+}
+.UserName
+{
+    float: right;
+    height: 30px;
+    border-radius: 2px;
+    margin-right: 10px;
+    border: none;
+    width: 200px;
+    margin-top: 16px;
+    text-align: center;
+    color: darkgray;
+    font-style: oblique;
+    
+}
+.User1
+{
+   float: right;
+    height: 30px;
+    border-radius: 2px;
+    margin-right: 16px;
+    border: none;
+    width: 200px;
+    margin-top: 16px;
+    text-align: center;
+    color: darkgray;
+    font-style: oblique;
+    border: solid 1px gold;
+     
+}
+.User2
+{
+   float: right;
+    height: 30px;
+    border-radius: 2px;
+    margin-right: 25px;
+    border: none;
+    width: 200px;
+    margin-top: 16px;
+    text-align: center;
+    color: darkgray;
+    font-style: oblique;
+     border: solid 1px gold;
+}
+.BtnLogin
+{
+    width: 80px;
+    border: solid 1px goldenrod;
+    height: 30px;
+    float:right;
+    margin-right: -500px;
+    background-color:gold;
+    margin-top: 16px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.BtnLogin:hover
+{
+    background-color: goldenrod;
+}
+.Content
+{
+    
+    height: 200px;
+    width: 35%;
+    background-color: whitesmoke;
+    margin: auto;
+    margin-top: 240px;
+    opacity: 4;
+
+    
+}
+.Register
+{
+    width: 50%;
+    height: 30px;
+    background-color: gold;
+    border: none;
+    margin-top: 13px;
+    margin-left: 110px;
+    border-radius: 4px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    
+    
+    
+}
